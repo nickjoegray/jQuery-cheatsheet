@@ -1,4 +1,5 @@
 # jQuery-cheatsheet
+A source of simple examples how to extend and manipulate the DOM using jQuery
 
 # Exmples include:
 # - fadeIn | fadeOut | fadeTo 
